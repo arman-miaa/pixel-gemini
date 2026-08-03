@@ -5,7 +5,7 @@ Configuration and constants for the Pixel 10 Pro Google One Gemini Bot.
 import os
 
 # ── Telegram ──────────────────────────────────────────────────────────────────
-TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "8654770150:AAEl8-y42aI63BowU2DV5O1ikF8xTxvEvtA")
 
 # ── Device specs – Google Pixel 10 Pro (Android 16) ──────────────────────────
 DEVICE_MODEL = "Pixel 10 Pro"
